@@ -7,4 +7,4 @@
 ![html](https://img.shields.io/badge/-html-red?logo=C&logoColor=white&style=flat-square)
 ![css](https://img.shields.io/badge/-css-magneta?logo=C&logoColor=white&style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api?username=platonovdi&show_icons=true&count_private=true&theme=graywhite">
+![platonovdi's github stats](https://github-readme-stats.vercel.app/api?username=platonovdi&theme=blue-green)
