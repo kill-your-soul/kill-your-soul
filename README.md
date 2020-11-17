@@ -4,5 +4,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=C%2B%2B&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/-C-blue?logo=C&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-red?logo=C&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-magneta?logo=C&logoColor=white&style=flat-square)
 
 <img src="https://github-readme-stats.vercel.app/api?username=platonovdi&show_icons=true&count_private=true&theme=graywhite">
