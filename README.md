@@ -11,6 +11,8 @@
 ![platonovdi's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=platonovdi&theme=blue-green)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       21 mins         ███████████▓░░░░░░░░░░░░░   46.66 % 
+CSS        12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.69 % 
+Markdown   11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.17 % 
 ```
 <!--END_SECTION:waka-->
