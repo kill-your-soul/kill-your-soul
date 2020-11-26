@@ -11,8 +11,10 @@
 ![platonovdi's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=platonovdi&theme=blue-green)
 <!--START_SECTION:waka-->
 ```text
-YAML       21 mins         ███████████▓░░░░░░░░░░░░░   46.54 % 
-CSS        12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.62 % 
-Markdown   11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.10 % 
+Python      44 mins         ████████████░░░░░░░░░░░░░   47.69 % 
+YAML        21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.55 % 
+CSS         12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Markdown    11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Batchfile   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 <!--END_SECTION:waka-->
