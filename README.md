@@ -11,6 +11,6 @@
 ![platonovdi's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=platonovdi&theme=blue-green)
 <!--START_SECTION:waka-->
 ```text
-
+Python   8 mins          ████████████████████████▓   98.02 % 
 ```
 <!--END_SECTION:waka-->
