@@ -11,8 +11,9 @@
 ![platonovdi's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=platonovdi&theme=blue-green)
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 44 mins   ███████████████████████░░   92.06 % 
-Erlang       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-C            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Python       3 hrs 27 mins   ███████████████████████░░   91.65 % 
+Erlang       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+C            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
