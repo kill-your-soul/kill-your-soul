@@ -6,6 +6,6 @@
 ![html](https://img.shields.io/badge/-html-red?logo=C&logoColor=white&style=flat-square)
 ![css](https://img.shields.io/badge/-css-magneta?logo=C&logoColor=white&style=flat-square)
 <!-- [C](https://img.shields.io/badge/-C-blue?logo=C&logoColor=white&style=flat-square) -->
-![platonovdi's github stats](https://github-readme-stats.vercel.app/api?username=platonovdi&theme=blue-green)
+![platonovdi's github stats](https://github-readme-stats.vercel.app/api?username=kill-your-soul&theme=blue-green)
 
-![platonovdi's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=platonovdi&theme=blue-green)
+![platonovdi's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=kill-your-soul&theme=blue-green)
