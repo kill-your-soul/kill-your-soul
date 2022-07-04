@@ -9,3 +9,4 @@
 ![platonovdi's github stats](https://github-readme-stats.vercel.app/api?username=kill-your-soul&theme=blue-green)
 
 ![platonovdi's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=kill-your-soul&theme=blue-green)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kill-your-soul&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
